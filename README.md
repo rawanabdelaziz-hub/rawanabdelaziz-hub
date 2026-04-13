@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Rawan 👋
 
 Computer Engineering student focused on Robotics & Autonomous Systems. <\br>
