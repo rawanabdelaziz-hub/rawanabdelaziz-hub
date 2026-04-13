@@ -5,7 +5,6 @@ Computer Engineering student focused on Robotics & Autonomous Systems. <\br>
 I am passionate about building intelligent systems that can perceive, decide, and act in real-world environments. My current focus is on developing strong foundations in ROS2, C++, and Linux to design and optimize autonomous robotic systems.<\br>
 
 # 🤖 Robotics & Systems Stack
-# ⚡ Tech Stack
 
 ![ROS2](https://img.shields.io/badge/ROS2-robotics-blue)
 ![C++](https://img.shields.io/badge/C++-systems-blue)
